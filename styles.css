@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+body {
+    background-color: black;
+}
+
+.button {
+    cursor: pointer;
+}
+
+text {
+    fill: white;
+}
+
+rect {
+    fill: rgb(72, 58, 121);
+}
+
+#attempts, #results {
+    background-color: white;
+    margin-right: 15px;
+}
